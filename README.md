@@ -27,8 +27,14 @@ Os resultados estão organizados em tabelas e visualizações que atendem às de
 
 ## Reflexão  
 
-Este projeto não só me ajudou a desenvolver habilidades técnicas em Python, como também ampliou minha visão sobre como os dados podem ser usados para resolver problemas reais em empresas. Foi um ótimo ponto de partida na minha jornada como analista de dados.  
+Este projeto não só me ajudou a desenvolver habilidades técnicas em Python, como também ampliou minha visão sobre como os dados podem ser usados para resolver problemas reais em empresas. Foi um ótimo ponto de partida na minha jornada como cientista de dados.
+
+Agradecimento para a Universidade de Dados que me inspirou a fazer esse projeto com o desafio proposto.
+
+Link do dataset: https://www.kaggle.com/datasets/nosbielcs/brazilian-delivery-center
 
 ---
 
-**Dúvidas ou sugestões?** Entre em contato! 😊  
+**Dúvidas ou sugestões?** Entre em contato! 😊
+
+linkedin.com/in/eduardocbfreire
